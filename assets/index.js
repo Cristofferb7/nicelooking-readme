@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
+const generateMarkdown = require('./generateMarkdown')
 
 // TODO: Create an array of questions for user input
 // Define your list of questions
@@ -55,6 +56,7 @@ function init() {
     .then((answers) => {
       console.log("Survey results:");
       console.log(answers);
+      const markdown = generateMarkdown(answers)
     })
     .catch((error) => {
       console.error("Error occurred:", error);
