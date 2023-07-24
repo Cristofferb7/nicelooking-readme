@@ -13,7 +13,7 @@
   ## Description 
   Created a read me generator using node. 
 
-  ## Installion 
+  ## Installation 
   You have to init the function and then run the node index.js to get the questions, then you get a series of questions to fill the read me, and once you answer all of them the readme.md file should be created as a markdown file. 
 
   ## Contribution 
