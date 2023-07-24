@@ -3,7 +3,7 @@
 
   ## Table Of Content
   - [Description](#description)
-  - [Installion instructions](#installation)
+  - [Installation instructions](#installation)
   - [Guidelines](#contribution)
   - [Instructions](#instructions)
   - [Licenses](#licenses)
