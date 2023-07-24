@@ -45,6 +45,21 @@ const questions = [
     choices: ['Apache 2.0 License', 'Boost Software License 1.0', 'BSD 3-Clause License', 'ISC License (ISC)', 'none']
     //
   },
+
+  {
+    type: "input",
+    name: "github",
+    message: "add github username",
+    //
+  },
+  
+  {
+    type: "input",
+    name: "email",
+    message: "enter email",
+    //
+  },
+  
 ];
 
 // TODO: Create a function to write README file
@@ -63,7 +78,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then((answers) => {
-      console.log("Survey results:");
+      console.log("results:");
       console.log(answers);
       const markdown = generateMarkdown(answers)
       console.log(markdown);

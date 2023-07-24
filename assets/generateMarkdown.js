@@ -50,23 +50,36 @@ return ''
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title} 
+  return `# ${data.title}
+  ${renderLicenseBadge(data.license)}  
+
+  ## Table Of Content
+  - [Description](#description)
+  - [Installion instructions](#installion)
+  - [Guidelines](#contribution)
+  - [Instructions](#instructions)
+  - [Licenses](#licenses)
+  - [Questions](#questions)
+  
   
   ## Description 
   ${data.description}
 
-  ## Installion instructions
+  ## Installion 
   ${data.installation}
 
-  ##Contribution Guidelines
+  ## Contribution 
   ${data.contribution}
 
-  ##Instructions
+  ## Instructions
   ${data.instructions}
 
-  ##Licenses 
-  ${renderLicenseBadge(data.license)} 
+  ## Licenses 
+  ${data.license}
 
+  ## Questions
+  - ${data.email}
+  - github : ${data.github}
 `;
 }
 
