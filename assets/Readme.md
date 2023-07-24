@@ -13,7 +13,7 @@
   ## Description 
   Description of the title that you made or the assignment that you are describing.
 
-  ## Installion 
+  ## Installation 
   You can put all the parameters use in this part of the describing instructions.
 
   ## Contribution 
