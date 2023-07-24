@@ -27,7 +27,7 @@
 
   
   ## Link to video
-  -link:
+  - link:
     https://drive.google.com/file/d/1sNS3W_Ze1iLLpw6KlciXGptGm0g2YfjD/view
 
   ## Questions
