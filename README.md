@@ -26,7 +26,7 @@
   ISC License (ISC).
 
   ## Link to video 
-  ![link](https://drive.google.com/file/d/1sNS3W_Ze1iLLpw6KlciXGptGm0g2YfjD/view)
+  ![link](https://drive.google.com/file/d/1sNS3W_Ze1iLLpw6KlciXGptGm0g2YfjD/view) 
 
   ## Questions
   Reach me here❗   
