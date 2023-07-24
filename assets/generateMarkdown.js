@@ -78,6 +78,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Questions
+  Reach me here❗  
   - ${data.email}
   - github : ${data.github}
 `;

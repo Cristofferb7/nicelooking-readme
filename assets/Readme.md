@@ -1,4 +1,5 @@
-# read me 
+# cristoffer
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
 
   ## Table Of Content
   - [Description](#description)
@@ -10,20 +11,22 @@
   
   
   ## Description 
-  descript123123123
+  123
 
   ## Installion 
-  manty functions
+  4567
 
   ## Contribution 
-  ieqwjeiqwjeijqwiejqwe
+  789
 
   ## Instructions
-  'sdadasdasdasdas
+  poppopooppoo
 
   ## Licenses 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) 
+  ISC License (ISC)
 
   ## Questions
-  - cristoffer@gmail.com
-  - github : cristofferb7
+  
+  Reach me here❗ 
+  - sdmadas@gnail.com
+  - github : cristofferb7	
