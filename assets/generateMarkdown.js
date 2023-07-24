@@ -56,7 +56,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Installion instructions
-  ${data.installion}
+  ${data.installation}
 
   ##Contribution Guidelines
   ${data.contribution}
